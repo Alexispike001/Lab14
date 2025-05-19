@@ -1,0 +1,8 @@
+LAB #12: Chatbot con base de datos local y función con OpenAI.
+Edson Alexis González Sosa. 5090-24-4629. Fecha: 19/05/2025
+
+El programa hace uso de la biblioteca "libcurl" para realizar solicitudes HTTP hacia la API de OpenAI mediante una clave de acceso. Para ello, se implementó un sistema capaz de recibir respuestas generadas en tiempo real. En la función void consultarOpenAI() {, se construye el cuerpo del mensaje en formato JSON, especificando el modelo y el contenido que el usuario desea consultar.
+
+Se aplicaron técnicas de procesamiento previo como la conversión de texto a mayúsculas o minúsculas, la separación de palabras (tokenización), y un sistema de coincidencia de términos. Un ejemplo de esto es la función string buscarPorPalabrasClave(const map<string, string>& conocimiento, const string& pregunta) {, la cual utiliza algoritmos de búsqueda con coincidencias parciales, apoyándose en la librería <algorithm>.
+
+ste laboratorio me permitió integrar diversas técnicas de inteligencia artificial dentro de un proyecto en C++, aprendiendo sobre la preparación de texto, el manejo de servicios web externos, y cómo equilibrar algoritmos rígidos con opciones más flexibles.

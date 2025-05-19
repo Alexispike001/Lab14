@@ -1,0 +1,10 @@
+¿Cómo estás?|Muy bien, y tú?.
+¿Qué es un algoritmo?|Un algoritmo es una secuencia de pasos para resolver un problema.
+¿Quién inventó C++?|Bjarne Stroustrup.
+¿Para qué sirve un compilador?|Un compilador traduce código fuente a lenguaje máquina.
+¿Linux está escrito en C?|Sí, gran parte del núcleo de Linux está escrito en C.
+¿Es C un lenguaje de alto nivel?|Sí, aunque tiene características de bajo nivel.
+¿Para qué sirve el puntero en C?|Sirve para almacenar direcciones de memoria.
+¿Se puede programar hardware con C?|Sí, especialmente en sistemas embebidos.
+¿Es C++ compatible con C?|En gran parte, sí; C++ es una extensión de C.
+¿Para qué sirve el operador & en C?|Sirve para obtener la dirección de una variable.
